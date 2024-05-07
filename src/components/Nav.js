@@ -21,9 +21,7 @@ export const Nav = () => {
         }}
       >
         <div className="container-fluid">
-          <a className="navbar-brand">
-            <b> Hirademy</b>
-          </a>
+          <b> Hirademy</b>
           <button
             className="navbar-toggler"
             type="button"

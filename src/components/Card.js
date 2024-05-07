@@ -20,7 +20,7 @@ export const Card = ({ name, count, id }) => {
             </Link>
           </div>
           <div className="d-flex justify-content-between mt-3">
-            <a>{count} Pages</a>
+            <h6>{count} Pages</h6>
           </div>
         </div>
       </div>
